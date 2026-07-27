@@ -7,7 +7,7 @@ app.get('/api/version-app', (req, res) => {
     res.json({
         versionName: "1.1",
         versionCode: 2,
-        updateUrl: "https://www.mediafire.com/file/tiguyherntnj2f1/DOLARHOY_1.1_n.apk/file"
+        updateUrl: "https://soundypc.com/dolar-hoy-la-herramienta-definitiva-para-el-control-cambiario-y-financiero-en-venezuela/"
     });
 });
 
